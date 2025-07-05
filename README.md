@@ -1,18 +1,31 @@
-🐍 Snake Game – Java Project
-A simple and fun Snake Game made using Java AWT and Swing — developed collaboratively as a mini project. This game recreates the nostalgic snake gameplay with smooth controls and classic design.
+# 🐍 Snake Game – Java (AWT + Swing)
 
-💡 Project Overview
-A retro-style Snake Game where the player controls the snake to eat food and grow longer, while avoiding collisions with the wall or its own body. The game ends when a collision occurs.
+A classic **Snake Game** built using **Java AWT** and **Swing**, created with logic. This project is perfect for beginners exploring GUI-based Java applications.
 
-👨‍💻 Technologies Used :-
-Java
-AWT (Abstract Window Toolkit)
-Swing (for GUI components)
+---
 
-🎮 Game Features
-Arrow key controls
-Random food generation
-Real-time score tracking
-Game Over detection
-Restart option after Game Over
-Neat and minimal GUI design
+## 🎮 Features
+
+- Arrow key controls for smooth snake movement  
+- Random food generation  
+- Score increases with every bite  
+- Collision detection with walls and self  
+- Game Over screen with Restart option  
+- Simple and clean user interface
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Java  
+- **GUI:** AWT and Swing  
+- **IDE:** VS Code / IntelliJ
+
+---
+
+## 🚀 How to Run
+
+1. Open project folder in your IDE  
+2. Compile the files:
+   ```bash
+   javac *.java
